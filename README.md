@@ -1,8 +1,8 @@
 # Favorite Movies
-**Avengers: Endgame**
-**Haikyu!!!**
+1. **Avengers: Endgame**
+2. **Haikyu!!!**
 
 ## Favorite Series
-*Pokemon*
-*Digimon*
-*Bakugan*
+1. *Pokemon*
+2. *Digimon*
+3. *Bakugan*
