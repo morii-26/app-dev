@@ -1,2 +1,8 @@
-# app-dev
-My first repository
+# Favorite Movies
+**Avengers: Endgame**
+**Haikyu!!!**
+
+## Favorite Series
+*Pokemon*
+*Digimon*
+*Bakugan*
